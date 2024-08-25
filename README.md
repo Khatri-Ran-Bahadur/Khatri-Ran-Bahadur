@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Khatri-Ran-Bahadur&theme=radical&exclude_days=Sun" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khatri-Ran-Bahadur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="right" height="150" src="https://github.com/Khatri-Ran-Bahadur/Khatri-Ran-Bahadur/commit/847afb8b06eecba0e4b72ba353524f694a841f4d"  />
+<img align="right" height="150" src="https://github.com/Khatri-Ran-Bahadur/Khatri-Ran-Bahadur/blob/847afb8b06eecba0e4b72ba353524f694a841f4d/rn-edited-photo.png"  />
 </div>
 
 ###
